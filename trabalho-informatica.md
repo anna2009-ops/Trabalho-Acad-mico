@@ -64,3 +64,129 @@ Não basta focar apenas na programação 👨‍💻. O sucesso de um software d
 - 🔄 O cumprimento das etapas do projeto  
 
 Esses elementos trabalham juntos para tornar o desenvolvimento mais eficiente 🚀, evitar problemas ⚠️ e garantir que o sistema atenda às necessidades dos usuários de forma satisfatória 😊.
+
+# 📘 Guia de Pesquisa: Planejamento e Gestão de Projetos
+
+## 🧠 Módulo 1: O Pensamento Estratégico (O Porquê)
+
+### 1. 📌 Projeto de Software e Escopo
+- **Projeto**: possui início, meio e fim.
+- **Processo**: contínuo e repetitivo.
+- **Escopo**: define os limites do projeto.
+  - Escopo do **produto**: o que será entregue.
+  - Escopo do **projeto**: o trabalho necessário.
+
+> 🎯 **Objetivo:** Entender que sem escopo definido, o projeto nunca termina.
+
+---
+
+### 2. 🎯 Objetivos SMART e Viabilidade
+- **SMART**:
+  - S: Específico  
+  - M: Mensurável  
+  - A: Atingível  
+  - R: Relevante  
+  - T: Temporal  
+- **Viabilidade**:
+  - Técnica ⚙️  
+  - Econômica 💰  
+  - Operacional 🏢  
+
+> 🎯 **Objetivo:** Avaliar se a ideia é viável antes de começar.
+
+---
+
+## ⚙️ Módulo 2: O Caminho da Execução (O Como)
+
+### 3. 🌊 Modelo Cascata
+- Processo **sequencial** (uma fase após a outra).
+- Etapas bem definidas.
+- Baixa flexibilidade.
+
+> 🎯 **Objetivo:** Compreender o modelo tradicional.
+
+---
+
+### 4. 🚀 Manifesto Ágil
+- Baseado em **4 pilares** e **12 princípios**.
+- Foco em:
+  - Pessoas 🤝  
+  - Software funcional 💻  
+  - Colaboração 👥  
+  - Adaptação 🔄  
+
+> 🎯 **Objetivo:** Desenvolver mentalidade ágil.
+
+---
+
+### 5. 🏃 Scrum
+- **Sprints**: ciclos curtos de trabalho.
+- **Papéis**:
+  - Product Owner 👑  
+  - Scrum Master 🧭  
+  - Desenvolvedores 👨‍💻  
+- **Reuniões**:
+  - Daily 📅  
+  - Review 🔍  
+  - Retrospectiva ♻️  
+
+> 🎯 **Objetivo:** Organizar o trabalho em equipe.
+
+---
+
+### 6. 📊 Kanban
+- Quadro:
+  - To Do 📝  
+  - Doing 🔄  
+  - Done ✅  
+- **WIP**: limite de tarefas em andamento.
+- Identificação de gargalos 🚧  
+
+> 🎯 **Objetivo:** Visualizar o fluxo de trabalho.
+
+---
+
+## 🔄 Módulo 3: O Ciclo de Vida e Ferramentas (A Prática)
+
+### 7. 🔁 SDLC (Ciclo de Vida do Software)
+- Etapas:
+  1. Levantamento 📋  
+  2. Design 🎨  
+  3. Implementação 💻  
+  4. Testes 🧪  
+  5. Implantação 🚀  
+  6. Manutenção 🔧  
+
+> 🎯 **Objetivo:** Entender a sequência de desenvolvimento.
+
+---
+
+### 8. 🧩 Engenharia de Requisitos
+- **Funcionais**: o que o sistema faz.
+- **Não funcionais**: qualidade (desempenho, segurança, usabilidade).
+
+> 🎯 **Objetivo:** Traduzir necessidades do cliente em requisitos claros.
+
+---
+
+### 9. 🛠️ Ferramentas de Gestão e Prototipagem
+- Gestão:
+  - Trello  
+  - Jira  
+- Design:
+  - Figma  
+  - Adobe XD  
+
+> 🎯 **Objetivo:** Aumentar produtividade e evitar retrabalho.
+
+---
+
+### 10. 🔀 Versionamento com Git e GitHub
+- Controle de versão 📂
+- Conceitos:
+  - Commit  
+  - Push  
+  - Pull  
+  - Branch  
+
+> 🎯 **Objetivo:** Facilitar o trabalho em equipe sem conflitos de código.
